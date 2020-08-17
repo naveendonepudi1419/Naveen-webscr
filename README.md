@@ -3,6 +3,8 @@ Naveen webscr - Web Applications Security Scanner.
 
 By NaveenDonepudi 
 
+This tool is created to identify the various bugs / vulnerabilities in a website
+
 How to use:
 
 1- python scan.py
@@ -19,11 +21,11 @@ Naveen webscr have below features:
 
 2- Detect and Exploit Remote Code Injection Vulnerabilities.
 
-3- ~ ~ ~ Remote Command Execution Vulnerabilities.
+3- Remote Command Execution Vulnerabilities.
 
-4- ~ ~ ~ SQL Injection Vulnerabilities.
+4-  SQL Injection Vulnerabilities.
 
-5- ~ ~ ~ Typical XSS Vulnerabilities.
+5-  Typical XSS Vulnerabilities.
 
 6- Detect WebKnight WAF.
 
