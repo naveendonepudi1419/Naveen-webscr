@@ -8,6 +8,7 @@ This tool is created to identify the various bugs / vulnerabilities in a website
 How to use:
 
 1- go the scan.py file and run it
+
      python scan.py
 
 2- The tool will ask you if you want to scan URL or List of urls?
