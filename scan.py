@@ -1,8 +1,8 @@
 
 import re
 import urllib
-from headers import *
-from vulnz import *
+from header import *
+from vuln import *
 
 print ga.green+'''
 
