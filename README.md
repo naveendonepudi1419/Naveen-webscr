@@ -35,4 +35,6 @@ How to use:
 
 8- Finger-Print the backend Technologies.
 
-
+<p align="center"><img src="https://github.com/naveendonepudi1419/Naveen-webscr/blob/master/scan1.PNG?raw=true" /></p>
+<p align="center"><img src="https://github.com/naveendonepudi1419/Naveen-webscr/blob/master/scan2.PNG?raw=true" /></p>
+<p align="center"><img src="https://github.com/naveendonepudi1419/Naveen-webscr/blob/master/scan3.PNG?raw=true" /></p>
